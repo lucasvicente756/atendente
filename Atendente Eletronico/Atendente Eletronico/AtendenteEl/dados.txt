@@ -1,0 +1,5 @@
+A opção escolhida foi: 2
+
+Dia da Semana - Mês - Horário - Ano: Thu Dec 13 15:23:19 AMST 2018
+
+Dados recebidos do usuário(a): 10.8.34.81 de CPF: 656548
